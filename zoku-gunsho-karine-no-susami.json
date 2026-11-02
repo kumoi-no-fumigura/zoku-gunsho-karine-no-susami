@@ -146,6 +146,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 10,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-karine-no-susami",
   "work": "かりねのすさみ",
@@ -158,7 +162,7 @@
   "blocks": 11,
   "chars": 3561,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 10,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
